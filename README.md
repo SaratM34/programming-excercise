@@ -1,1 +1,1 @@
-# programming-excercise
+## How to run the program
