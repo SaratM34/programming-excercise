@@ -5,6 +5,12 @@
 `python run.py <json file>` <br>
 example: `python run.py users-1.json`
 
+* This program uses all built-in python libraries
+
+## How streaming is done?
+
+* The program doesn't load all the data into the memory at once. Each line of the input data file is streamed and once a complete json record is read. The json record is sent to calculate the summary statistics but not printed to console yet. Once 1000 records are streamed the summary statistics are printed to console along with the summary statistics for records streamed till now.
+
 
 ## Explaining output
 
@@ -19,6 +25,11 @@ example: `python run.py users-1.json`
 * Mean num unread messages for 280 active female users: 49.857142857142854 **(tells mean number of unread messages for current 1000 active female users)** <br><br>
 * Mean num unread messages total for 12384 active female users: 49.94081072351421 **(tells mean number of unread messages for users streamed till now)**<br><br>
 
+### Running video of the program is in video.mp4 file<br>
 
-* **No need to install any third party libraries, the program uses all built-in libraries**
+### I have attached the output files as well under output files folder.<br>
+* users1_output.txt for users-1.json data<br>
+* users2_output.txt for users-2.json data
+
+
 
