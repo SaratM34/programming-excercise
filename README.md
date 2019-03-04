@@ -1,5 +1,19 @@
+# Programming Excercise
+
 **command to run the program**: `python run.py users-1.json`
 
 **No need to install any third party libraries, the program uses all built-in libraries**
 
 ## Explaining output
+
+Mean Balance for current 1000 users: 5230.7289 **(tells the mean balance of current 1000 users)**
+Total Mean balance for 50000 users: 5232.066078 **(tells the mean balance of users streamed till now)**
+For 1000 users: {"2016": 167, "2017": 173, "2015": 164, "2013": 178, "2012": 156, "2014": 144, "2018": 18} ()
+Till Now users registered each year: {"2012": 8229, "2013": 8108, "2017": 8133, "2015": 8022, "2016": 8201, "2014": 8146, "2018": 1161}
+Median Age for 1000 users: 35.0 (tell the median age of current 1000 users)
+Median Age for 50000 users: 35.0 (tells the median age of users streamed till now)
+median num friends for 1000 users: 6.0 (tells median number of friends for current 1000 users)
+median num friends for 50000 users: 6.0 (tells the median number of friends for users streamed till now)
+Mean num unread messages for 280 active female users: 49.857142857142854 (tells)
+Mean num unread messages total for 12384 active female users: 49.94081072351421
+
