@@ -1,0 +1,1100 @@
+Mean Balance for current 1000 users: 5101.74961
+Total Mean balance for 1000 users: 5101.74961
+For 1000 users: {"2012": 149, "2013": 176, "2017": 151, "2015": 171, "2016": 170, "2014": 169, "2018": 14}
+Till Now users registered each year: {"2012": 149, "2013": 176, "2017": 151, "2015": 171, "2016": 170, "2014": 169, "2018": 14}
+Median Age for 1000 users: 35.0
+Median Age for 1000 users: 35.0
+median num friends for 1000 users: 6.0
+median num friends for 1000 users: 6.0
+Mean num unread messages for 223 active female users: 47.88340807174888
+Mean num unread messages total for 223 active female users: 47.88340807174888
+################################################################################################
+Mean Balance for current 1000 users: 5276.89888
+Total Mean balance for 2000 users: 5189.324245
+For 1000 users: {"2017": 163, "2018": 20, "2012": 173, "2015": 152, "2016": 173, "2013": 180, "2014": 139}
+Till Now users registered each year: {"2012": 322, "2013": 356, "2017": 314, "2015": 323, "2016": 343, "2014": 308, "2018": 34}
+Median Age for 1000 users: 35.0
+Median Age for 2000 users: 35.0
+median num friends for 1000 users: 6.0
+median num friends for 2000 users: 6.0
+Mean num unread messages for 236 active female users: 49.66101694915254
+Mean num unread messages total for 459 active female users: 48.79738562091503
+################################################################################################
+Mean Balance for current 1000 users: 5210.21453
+Total Mean balance for 3000 users: 5196.287673333333333333333333
+For 1000 users: {"2015": 157, "2014": 167, "2016": 167, "2017": 159, "2012": 165, "2013": 160, "2018": 25}
+Till Now users registered each year: {"2012": 487, "2013": 516, "2017": 473, "2015": 480, "2016": 510, "2014": 475, "2018": 59}
+Median Age for 1000 users: 35.0
+Median Age for 3000 users: 35.0
+median num friends for 1000 users: 6.0
+median num friends for 3000 users: 6.0
+Mean num unread messages for 243 active female users: 51.67078189300412
+Mean num unread messages total for 702 active female users: 49.79202279202279
+################################################################################################
+Mean Balance for current 1000 users: 5199.25462
+Total Mean balance for 4000 users: 5197.02941
+For 1000 users: {"2015": 163, "2017": 162, "2016": 166, "2012": 166, "2013": 166, "2014": 152, "2018": 25}
+Till Now users registered each year: {"2012": 653, "2013": 682, "2017": 635, "2015": 643, "2016": 676, "2014": 627, "2018": 84}
+Median Age for 1000 users: 35.0
+Median Age for 4000 users: 35.0
+median num friends for 1000 users: 6.0
+median num friends for 4000 users: 6.0
+Mean num unread messages for 239 active female users: 47.74476987447699
+Mean num unread messages total for 941 active female users: 49.272051009564294
+################################################################################################
+Mean Balance for current 1000 users: 5340.82436
+Total Mean balance for 5000 users: 5225.7884
+For 1000 users: {"2013": 185, "2016": 154, "2014": 153, "2017": 155, "2012": 168, "2018": 22, "2015": 163}
+Till Now users registered each year: {"2012": 821, "2013": 867, "2017": 790, "2015": 806, "2016": 830, "2014": 780, "2018": 106}
+Median Age for 1000 users: 36.0
+Median Age for 5000 users: 35.0
+median num friends for 1000 users: 6.0
+median num friends for 5000 users: 6.0
+Mean num unread messages for 266 active female users: 48.962406015037594
+Mean num unread messages total for 1207 active female users: 49.20381110190555
+################################################################################################
+Mean Balance for current 1000 users: 5129.95189
+Total Mean balance for 6000 users: 5209.815648333333333333333333
+For 1000 users: {"2012": 162, "2014": 152, "2015": 173, "2017": 176, "2016": 150, "2013": 168, "2018": 19}
+Till Now users registered each year: {"2012": 983, "2013": 1035, "2017": 966, "2015": 979, "2016": 980, "2014": 932, "2018": 125}
+Median Age for 1000 users: 35.0
+Median Age for 6000 users: 35.0
+median num friends for 1000 users: 5.0
+median num friends for 6000 users: 6.0
+Mean num unread messages for 251 active female users: 50.788844621513945
+Mean num unread messages total for 1458 active female users: 49.47668038408779
+################################################################################################
+Mean Balance for current 1000 users: 5189.30769
+Total Mean balance for 7000 users: 5206.88594
+For 1000 users: {"2015": 176, "2012": 157, "2017": 144, "2016": 172, "2013": 159, "2014": 164, "2018": 28}
+Till Now users registered each year: {"2012": 1140, "2013": 1194, "2017": 1110, "2015": 1155, "2016": 1152, "2014": 1096, "2018": 153}
+Median Age for 1000 users: 35.0
+Median Age for 7000 users: 35.0
+median num friends for 1000 users: 6.0
+median num friends for 7000 users: 6.0
+Mean num unread messages for 234 active female users: 50.51709401709402
+Mean num unread messages total for 1692 active female users: 49.62056737588652
+################################################################################################
+Mean Balance for current 1000 users: 5256.60909
+Total Mean balance for 8000 users: 5213.10133375
+For 1000 users: {"2014": 154, "2016": 167, "2012": 161, "2018": 28, "2015": 160, "2017": 170, "2013": 160}
+Till Now users registered each year: {"2012": 1301, "2013": 1354, "2017": 1280, "2015": 1315, "2016": 1319, "2014": 1250, "2018": 181}
+Median Age for 1000 users: 35.0
+Median Age for 8000 users: 35.0
+median num friends for 1000 users: 5.0
+median num friends for 8000 users: 6.0
+Mean num unread messages for 251 active female users: 51.852589641434264
+Mean num unread messages total for 1943 active female users: 49.908903757076686
+################################################################################################
+Mean Balance for current 1000 users: 5223.57702
+Total Mean balance for 9000 users: 5214.265298888888888888888889
+For 1000 users: {"2014": 173, "2013": 171, "2017": 164, "2015": 144, "2016": 163, "2012": 162, "2018": 23}
+Till Now users registered each year: {"2012": 1463, "2013": 1525, "2017": 1444, "2015": 1459, "2016": 1482, "2014": 1423, "2018": 204}
+Median Age for 1000 users: 34.0
+Median Age for 9000 users: 35.0
+median num friends for 1000 users: 5.0
+median num friends for 9000 users: 6.0
+Mean num unread messages for 253 active female users: 47.37154150197628
+Mean num unread messages total for 2196 active female users: 49.61657559198543
+################################################################################################
+Mean Balance for current 1000 users: 5316.23593
+Total Mean balance for 10000 users: 5224.462362
+For 1000 users: {"2014": 143, "2013": 155, "2017": 177, "2015": 159, "2012": 170, "2016": 175, "2018": 21}
+Till Now users registered each year: {"2012": 1633, "2013": 1680, "2017": 1621, "2015": 1618, "2016": 1657, "2014": 1566, "2018": 225}
+Median Age for 1000 users: 35.0
+Median Age for 10000 users: 35.0
+median num friends for 1000 users: 5.0
+median num friends for 10000 users: 6.0
+Mean num unread messages for 282 active female users: 47.02836879432624
+Mean num unread messages total for 2478 active female users: 49.32203389830509
+################################################################################################
+Mean Balance for current 1000 users: 5208.3275
+Total Mean balance for 11000 users: 5222.995556363636363636363636
+For 1000 users: {"2013": 157, "2017": 145, "2014": 163, "2016": 178, "2015": 146, "2018": 31, "2012": 180}
+Till Now users registered each year: {"2012": 1813, "2013": 1837, "2017": 1766, "2015": 1764, "2016": 1835, "2014": 1729, "2018": 256}
+Median Age for 1000 users: 35.0
+Median Age for 11000 users: 35.0
+median num friends for 1000 users: 6.0
+median num friends for 11000 users: 6.0
+Mean num unread messages for 264 active female users: 53.484848484848484
+Mean num unread messages total for 2742 active female users: 49.72283005105762
+################################################################################################
+Mean Balance for current 1000 users: 5196.64628
+Total Mean balance for 12000 users: 5220.799783333333333333333333
+For 1000 users: {"2014": 167, "2012": 182, "2017": 171, "2015": 162, "2013": 142, "2016": 158, "2018": 18}
+Till Now users registered each year: {"2012": 1995, "2013": 1979, "2017": 1937, "2015": 1926, "2016": 1993, "2014": 1896, "2018": 274}
+Median Age for 1000 users: 35.0
+Median Age for 12000 users: 35.0
+median num friends for 1000 users: 5.0
+median num friends for 12000 users: 6.0
+Mean num unread messages for 258 active female users: 50.97674418604651
+Mean num unread messages total for 3000 active female users: 49.830666666666666
+################################################################################################
+Mean Balance for current 1000 users: 5239.40925
+Total Mean balance for 13000 users: 5222.231280769230769230769231
+For 1000 users: {"2015": 167, "2014": 167, "2013": 168, "2018": 29, "2017": 162, "2016": 150, "2012": 157}
+Till Now users registered each year: {"2012": 2152, "2013": 2147, "2017": 2099, "2015": 2093, "2016": 2143, "2014": 2063, "2018": 303}
+Median Age for 1000 users: 35.0
+Median Age for 13000 users: 35.0
+median num friends for 1000 users: 5.0
+median num friends for 13000 users: 6.0
+Mean num unread messages for 247 active female users: 49.27125506072875
+Mean num unread messages total for 3247 active female users: 49.78811210348014
+################################################################################################
+Mean Balance for current 1000 users: 5276.92056
+Total Mean balance for 14000 users: 5226.137657857142857142857143
+For 1000 users: {"2017": 174, "2013": 158, "2014": 161, "2016": 179, "2012": 166, "2015": 140, "2018": 22}
+Till Now users registered each year: {"2012": 2318, "2013": 2305, "2017": 2273, "2015": 2233, "2016": 2322, "2014": 2224, "2018": 325}
+Median Age for 1000 users: 35.0
+Median Age for 14000 users: 35.0
+median num friends for 1000 users: 5.0
+median num friends for 14000 users: 6.0
+Mean num unread messages for 243 active female users: 52.44444444444444
+Mean num unread messages total for 3490 active female users: 49.973065902578796
+################################################################################################
+Mean Balance for current 1000 users: 5251.8431
+Total Mean balance for 15000 users: 5227.851354
+For 1000 users: {"2013": 168, "2017": 163, "2014": 169, "2015": 139, "2016": 159, "2012": 172, "2018": 30}
+Till Now users registered each year: {"2012": 2490, "2013": 2473, "2017": 2436, "2015": 2372, "2016": 2481, "2014": 2393, "2018": 355}
+Median Age for 1000 users: 35.0
+Median Age for 15000 users: 35.0
+median num friends for 1000 users: 6.0
+median num friends for 15000 users: 6.0
+Mean num unread messages for 256 active female users: 49.59765625
+Mean num unread messages total for 3746 active female users: 49.94741057127603
+################################################################################################
+Mean Balance for current 1000 users: 5282.21699
+Total Mean balance for 16000 users: 5231.24920625
+For 1000 users: {"2013": 154, "2012": 166, "2017": 178, "2014": 150, "2016": 175, "2015": 161, "2018": 16}
+Till Now users registered each year: {"2012": 2656, "2013": 2627, "2017": 2614, "2015": 2533, "2016": 2656, "2014": 2543, "2018": 371}
+Median Age for 1000 users: 35.0
+Median Age for 16000 users: 35.0
+median num friends for 1000 users: 6.0
+median num friends for 16000 users: 6.0
+Mean num unread messages for 279 active female users: 50.132616487455195
+Mean num unread messages total for 4025 active female users: 49.96024844720497
+################################################################################################
+Mean Balance for current 1000 users: 5203.54003
+Total Mean balance for 17000 users: 5229.619254705882352941176471
+For 1000 users: {"2017": 167, "2012": 170, "2013": 158, "2015": 154, "2014": 181, "2016": 146, "2018": 24}
+Till Now users registered each year: {"2012": 2826, "2013": 2785, "2017": 2781, "2015": 2687, "2016": 2802, "2014": 2724, "2018": 395}
+Median Age for 1000 users: 35.0
+Median Age for 17000 users: 35.0
+median num friends for 1000 users: 6.0
+median num friends for 17000 users: 6.0
+Mean num unread messages for 252 active female users: 48.17063492063492
+Mean num unread messages total for 4277 active female users: 49.85480476969839
+################################################################################################
+Mean Balance for current 1000 users: 5418.90666
+Total Mean balance for 18000 users: 5240.135221666666666666666667
+For 1000 users: {"2013": 150, "2014": 175, "2017": 158, "2012": 170, "2015": 165, "2018": 18, "2016": 164}
+Till Now users registered each year: {"2012": 2996, "2013": 2935, "2017": 2939, "2015": 2852, "2016": 2966, "2014": 2899, "2018": 413}
+Median Age for 1000 users: 35.0
+Median Age for 18000 users: 35.0
+median num friends for 1000 users: 5.0
+median num friends for 18000 users: 6.0
+Mean num unread messages for 238 active female users: 54.71848739495798
+Mean num unread messages total for 4515 active female users: 50.11118493909191
+################################################################################################
+Mean Balance for current 1000 users: 5265.51277
+Total Mean balance for 19000 users: 5241.470882105263157894736842
+For 1000 users: {"2013": 150, "2015": 171, "2016": 175, "2017": 177, "2012": 156, "2014": 146, "2018": 25}
+Till Now users registered each year: {"2012": 3152, "2013": 3085, "2017": 3116, "2015": 3023, "2016": 3141, "2014": 3045, "2018": 438}
+Median Age for 1000 users: 35.0
+Median Age for 19000 users: 35.0
+median num friends for 1000 users: 5.0
+median num friends for 19000 users: 6.0
+Mean num unread messages for 241 active female users: 48.6058091286307
+Mean num unread messages total for 4756 active female users: 50.03490328006728
+################################################################################################
+Mean Balance for current 1000 users: 5423.65206
+Total Mean balance for 20000 users: 5250.579941
+For 1000 users: {"2013": 170, "2014": 164, "2015": 150, "2012": 159, "2016": 167, "2017": 162, "2018": 28}
+Till Now users registered each year: {"2012": 3311, "2013": 3255, "2017": 3278, "2015": 3173, "2016": 3308, "2014": 3209, "2018": 466}
+Median Age for 1000 users: 35.0
+Median Age for 20000 users: 35.0
+median num friends for 1000 users: 6.0
+median num friends for 20000 users: 6.0
+Mean num unread messages for 274 active female users: 49.551094890510946
+Mean num unread messages total for 5030 active female users: 50.00854870775348
+################################################################################################
+Mean Balance for current 1000 users: 5178.33102
+Total Mean balance for 21000 users: 5247.139516190476190476190476
+For 1000 users: {"2012": 170, "2017": 183, "2013": 158, "2014": 154, "2015": 165, "2016": 140, "2018": 30}
+Till Now users registered each year: {"2012": 3481, "2013": 3413, "2017": 3461, "2015": 3338, "2016": 3448, "2014": 3363, "2018": 496}
+Median Age for 1000 users: 36.0
+Median Age for 21000 users: 35.0
+median num friends for 1000 users: 5.0
+median num friends for 21000 users: 6.0
+Mean num unread messages for 237 active female users: 50.55696202531646
+Mean num unread messages total for 5267 active female users: 50.033225745205996
+################################################################################################
+Mean Balance for current 1000 users: 5162.57969
+Total Mean balance for 22000 users: 5243.295887727272727272727273
+For 1000 users: {"2017": 158, "2015": 170, "2013": 170, "2018": 19, "2012": 157, "2016": 151, "2014": 175}
+Till Now users registered each year: {"2012": 3638, "2013": 3583, "2017": 3619, "2015": 3508, "2016": 3599, "2014": 3538, "2018": 515}
+Median Age for 1000 users: 35.0
+Median Age for 22000 users: 35.0
+median num friends for 1000 users: 5.0
+median num friends for 22000 users: 6.0
+Mean num unread messages for 261 active female users: 50.02298850574713
+Mean num unread messages total for 5528 active female users: 50.032742402315485
+################################################################################################
+Mean Balance for current 1000 users: 5258.3684
+Total Mean balance for 23000 users: 5243.951214347826086956521739
+For 1000 users: {"2016": 146, "2013": 153, "2017": 155, "2014": 183, "2015": 171, "2012": 172, "2018": 20}
+Till Now users registered each year: {"2012": 3810, "2013": 3736, "2017": 3774, "2015": 3679, "2016": 3745, "2014": 3721, "2018": 535}
+Median Age for 1000 users: 35.0
+Median Age for 23000 users: 35.0
+median num friends for 1000 users: 5.0
+median num friends for 23000 users: 6.0
+Mean num unread messages for 245 active female users: 47.987755102040815
+Mean num unread messages total for 5773 active female users: 49.94595530919799
+################################################################################################
+Mean Balance for current 1000 users: 5348.19224
+Total Mean balance for 24000 users: 5248.294590416666666666666667
+For 1000 users: {"2013": 164, "2017": 175, "2012": 170, "2015": 164, "2014": 161, "2016": 150, "2018": 16}
+Till Now users registered each year: {"2012": 3980, "2013": 3900, "2017": 3949, "2015": 3843, "2016": 3895, "2014": 3882, "2018": 551}
+Median Age for 1000 users: 36.0
+Median Age for 24000 users: 35.0
+median num friends for 1000 users: 6.0
+median num friends for 24000 users: 6.0
+Mean num unread messages for 253 active female users: 50.21343873517787
+Mean num unread messages total for 6026 active female users: 49.957185529372715
+################################################################################################
+Mean Balance for current 1000 users: 5257.49166
+Total Mean balance for 25000 users: 5248.6624732
+For 1000 users: {"2016": 165, "2015": 146, "2014": 165, "2013": 178, "2017": 159, "2012": 156, "2018": 31}
+Till Now users registered each year: {"2012": 4136, "2013": 4078, "2017": 4108, "2015": 3989, "2016": 4060, "2014": 4047, "2018": 582}
+Median Age for 1000 users: 35.0
+Median Age for 25000 users: 35.0
+median num friends for 1000 users: 5.0
+median num friends for 25000 users: 6.0
+Mean num unread messages for 236 active female users: 50.067796610169495
+Mean num unread messages total for 6262 active female users: 49.961354199936125
+################################################################################################
+Mean Balance for current 1000 users: 5227.7576
+Total Mean balance for 26000 users: 5247.858439615384615384615385
+For 1000 users: {"2016": 177, "2013": 166, "2014": 171, "2017": 159, "2015": 160, "2012": 148, "2018": 19}
+Till Now users registered each year: {"2012": 4284, "2013": 4244, "2017": 4267, "2015": 4149, "2016": 4237, "2014": 4218, "2018": 601}
+Median Age for 1000 users: 35.0
+Median Age for 26000 users: 35.0
+median num friends for 1000 users: 6.0
+median num friends for 26000 users: 6.0
+Mean num unread messages for 272 active female users: 50.8860294117647
+Mean num unread messages total for 6534 active female users: 49.99984695439241
+################################################################################################
+Mean Balance for current 1000 users: 5137.52449
+Total Mean balance for 27000 users: 5243.771997037037037037037037
+For 1000 users: {"2014": 165, "2017": 162, "2012": 176, "2015": 159, "2013": 172, "2016": 146, "2018": 20}
+Till Now users registered each year: {"2012": 4460, "2013": 4416, "2017": 4429, "2015": 4308, "2016": 4383, "2014": 4383, "2018": 621}
+Median Age for 1000 users: 35.0
+Median Age for 27000 users: 35.0
+median num friends for 1000 users: 5.0
+median num friends for 27000 users: 6.0
+Mean num unread messages for 203 active female users: 52.477832512315274
+Mean num unread messages total for 6737 active female users: 50.07451387858097
+################################################################################################
+Mean Balance for current 1000 users: 5262.80448
+Total Mean balance for 28000 users: 5244.451728571428571428571429
+For 1000 users: {"2012": 154, "2016": 173, "2014": 160, "2017": 162, "2013": 164, "2015": 161, "2018": 26}
+Till Now users registered each year: {"2012": 4614, "2013": 4580, "2017": 4591, "2015": 4469, "2016": 4556, "2014": 4543, "2018": 647}
+Median Age for 1000 users: 35.0
+Median Age for 28000 users: 35.0
+median num friends for 1000 users: 6.0
+median num friends for 28000 users: 6.0
+Mean num unread messages for 222 active female users: 51.86036036036036
+Mean num unread messages total for 6959 active female users: 50.131484408679405
+################################################################################################
+Mean Balance for current 1000 users: 5236.02313
+Total Mean balance for 29000 users: 5244.161087241379310344827586
+For 1000 users: {"2012": 162, "2015": 167, "2014": 181, "2013": 172, "2017": 146, "2016": 150, "2018": 22}
+Till Now users registered each year: {"2012": 4776, "2013": 4752, "2017": 4737, "2015": 4636, "2016": 4706, "2014": 4724, "2018": 669}
+Median Age for 1000 users: 35.0
+Median Age for 29000 users: 35.0
+median num friends for 1000 users: 6.0
+median num friends for 29000 users: 6.0
+Mean num unread messages for 263 active female users: 48.60076045627376
+Mean num unread messages total for 7222 active female users: 50.07574079202437
+################################################################################################
+Mean Balance for current 1000 users: 5223.73094
+Total Mean balance for 30000 users: 5243.480082333333333333333333
+For 1000 users: {"2015": 171, "2016": 162, "2013": 176, "2017": 134, "2012": 190, "2014": 150, "2018": 17}
+Till Now users registered each year: {"2012": 4966, "2013": 4928, "2017": 4871, "2015": 4807, "2016": 4868, "2014": 4874, "2018": 686}
+Median Age for 1000 users: 35.0
+Median Age for 30000 users: 35.0
+median num friends for 1000 users: 6.0
+median num friends for 30000 users: 6.0
+Mean num unread messages for 244 active female users: 49.118852459016395
+Mean num unread messages total for 7466 active female users: 50.04446825609429
+################################################################################################
+Mean Balance for current 1000 users: 5072.37238
+Total Mean balance for 31000 users: 5237.960479032258064516129032
+For 1000 users: {"2016": 165, "2014": 153, "2012": 153, "2015": 175, "2013": 173, "2017": 155, "2018": 26}
+Till Now users registered each year: {"2012": 5119, "2013": 5101, "2017": 5026, "2015": 4982, "2016": 5033, "2014": 5027, "2018": 712}
+Median Age for 1000 users: 36.0
+Median Age for 31000 users: 35.0
+median num friends for 1000 users: 6.0
+median num friends for 31000 users: 6.0
+Mean num unread messages for 255 active female users: 50.85098039215686
+Mean num unread messages total for 7721 active female users: 50.07110477917368
+################################################################################################
+Mean Balance for current 1000 users: 5324.05637
+Total Mean balance for 32000 users: 5240.650975625
+For 1000 users: {"2015": 159, "2012": 167, "2016": 169, "2017": 153, "2014": 168, "2013": 155, "2018": 29}
+Till Now users registered each year: {"2012": 5286, "2013": 5256, "2017": 5179, "2015": 5141, "2016": 5202, "2014": 5195, "2018": 741}
+Median Age for 1000 users: 35.0
+Median Age for 32000 users: 35.0
+median num friends for 1000 users: 5.0
+median num friends for 32000 users: 6.0
+Mean num unread messages for 247 active female users: 50.94736842105263
+Mean num unread messages total for 7968 active female users: 50.09826807228916
+################################################################################################
+Mean Balance for current 1000 users: 5259.1705
+Total Mean balance for 33000 users: 5241.212173333333333333333333
+For 1000 users: {"2015": 170, "2017": 143, "2014": 145, "2012": 172, "2013": 161, "2018": 27, "2016": 182}
+Till Now users registered each year: {"2012": 5458, "2013": 5417, "2017": 5322, "2015": 5311, "2016": 5384, "2014": 5340, "2018": 768}
+Median Age for 1000 users: 35.0
+Median Age for 33000 users: 35.0
+median num friends for 1000 users: 5.0
+median num friends for 33000 users: 6.0
+Mean num unread messages for 248 active female users: 48.50806451612903
+Mean num unread messages total for 8216 active female users: 50.05026777020448
+################################################################################################
+Mean Balance for current 1000 users: 5201.55118
+Total Mean balance for 34000 users: 5240.045673529411764705882353
+For 1000 users: {"2012": 162, "2014": 168, "2015": 168, "2017": 158, "2016": 172, "2013": 153, "2018": 19}
+Till Now users registered each year: {"2012": 5620, "2013": 5570, "2017": 5480, "2015": 5479, "2016": 5556, "2014": 5508, "2018": 787}
+Median Age for 1000 users: 36.0
+Median Age for 34000 users: 35.0
+median num friends for 1000 users: 6.0
+median num friends for 34000 users: 6.0
+Mean num unread messages for 255 active female users: 49.83529411764706
+Mean num unread messages total for 8471 active female users: 50.043796482115454
+################################################################################################
+Mean Balance for current 1000 users: 5219.80693
+Total Mean balance for 35000 users: 5239.467423714285714285714286
+For 1000 users: {"2015": 155, "2017": 170, "2016": 159, "2014": 157, "2013": 164, "2012": 168, "2018": 27}
+Till Now users registered each year: {"2012": 5788, "2013": 5734, "2017": 5650, "2015": 5634, "2016": 5715, "2014": 5665, "2018": 814}
+Median Age for 1000 users: 36.0
+Median Age for 35000 users: 35.0
+median num friends for 1000 users: 6.0
+median num friends for 35000 users: 6.0
+Mean num unread messages for 239 active female users: 46.76987447698745
+Mean num unread messages total for 8710 active female users: 49.95396096440872
+################################################################################################
+Mean Balance for current 1000 users: 5176.60895
+Total Mean balance for 36000 users: 5237.721355
+For 1000 users: {"2017": 189, "2012": 161, "2013": 171, "2015": 132, "2014": 163, "2016": 155, "2018": 29}
+Till Now users registered each year: {"2012": 5949, "2013": 5905, "2017": 5839, "2015": 5766, "2016": 5870, "2014": 5828, "2018": 843}
+Median Age for 1000 users: 35.0
+Median Age for 36000 users: 35.0
+median num friends for 1000 users: 6.0
+median num friends for 36000 users: 6.0
+Mean num unread messages for 235 active female users: 51.47659574468085
+Mean num unread messages total for 8945 active female users: 49.9939631078815
+################################################################################################
+Mean Balance for current 1000 users: 5238.08635
+Total Mean balance for 37000 users: 5237.731219729729729729729730
+For 1000 users: {"2017": 164, "2012": 157, "2016": 157, "2013": 164, "2014": 165, "2015": 164, "2018": 29}
+Till Now users registered each year: {"2012": 6106, "2013": 6069, "2017": 6003, "2015": 5930, "2016": 6027, "2014": 5993, "2018": 872}
+Median Age for 1000 users: 35.0
+Median Age for 37000 users: 35.0
+median num friends for 1000 users: 6.0
+median num friends for 37000 users: 6.0
+Mean num unread messages for 242 active female users: 48.48347107438016
+Mean num unread messages total for 9187 active female users: 49.95417437683683
+################################################################################################
+Mean Balance for current 1000 users: 5244.12056
+Total Mean balance for 38000 users: 5237.899360263157894736842105
+For 1000 users: {"2016": 181, "2015": 181, "2013": 142, "2017": 166, "2014": 162, "2018": 21, "2012": 147}
+Till Now users registered each year: {"2012": 6253, "2013": 6211, "2017": 6169, "2015": 6111, "2016": 6208, "2014": 6155, "2018": 893}
+Median Age for 1000 users: 34.5
+Median Age for 38000 users: 35.0
+median num friends for 1000 users: 6.0
+median num friends for 38000 users: 6.0
+Mean num unread messages for 227 active female users: 48.929515418502206
+Mean num unread messages total for 9414 active female users: 49.92946675164649
+################################################################################################
+Mean Balance for current 1000 users: 5154.27681
+Total Mean balance for 39000 users: 5235.755192307692307692307692
+For 1000 users: {"2014": 170, "2012": 149, "2017": 167, "2015": 163, "2016": 176, "2013": 146, "2018": 29}
+Till Now users registered each year: {"2012": 6402, "2013": 6357, "2017": 6336, "2015": 6274, "2016": 6384, "2014": 6325, "2018": 922}
+Median Age for 1000 users: 35.0
+Median Age for 39000 users: 35.0
+median num friends for 1000 users: 6.0
+median num friends for 39000 users: 6.0
+Mean num unread messages for 238 active female users: 51.890756302521005
+Mean num unread messages total for 9652 active female users: 49.977828429341066
+################################################################################################
+Mean Balance for current 1000 users: 5136.52192
+Total Mean balance for 40000 users: 5233.2743605
+For 1000 users: {"2013": 159, "2015": 154, "2014": 155, "2012": 169, "2017": 144, "2016": 192, "2018": 27}
+Till Now users registered each year: {"2012": 6571, "2013": 6516, "2017": 6480, "2015": 6428, "2016": 6576, "2014": 6480, "2018": 949}
+Median Age for 1000 users: 36.0
+Median Age for 40000 users: 35.0
+median num friends for 1000 users: 6.0
+median num friends for 40000 users: 6.0
+Mean num unread messages for 238 active female users: 50.99159663865546
+Mean num unread messages total for 9890 active female users: 50.002224469160765
+################################################################################################
+Mean Balance for current 1000 users: 5263.5639
+Total Mean balance for 41000 users: 5234.013129756097560975609756
+For 1000 users: {"2017": 172, "2013": 138, "2015": 179, "2014": 138, "2012": 180, "2016": 173, "2018": 20}
+Till Now users registered each year: {"2012": 6751, "2013": 6654, "2017": 6652, "2015": 6607, "2016": 6749, "2014": 6618, "2018": 969}
+Median Age for 1000 users: 35.0
+Median Age for 41000 users: 35.0
+median num friends for 1000 users: 6.0
+median num friends for 41000 users: 6.0
+Mean num unread messages for 237 active female users: 46.9789029535865
+Mean num unread messages total for 10127 active female users: 49.931470326849016
+################################################################################################
+Mean Balance for current 1000 users: 5285.97227
+Total Mean balance for 42000 users: 5235.250252142857142857142857
+For 1000 users: {"2012": 166, "2015": 155, "2014": 155, "2017": 197, "2016": 153, "2013": 147, "2018": 27}
+Till Now users registered each year: {"2012": 6917, "2013": 6801, "2017": 6849, "2015": 6762, "2016": 6902, "2014": 6773, "2018": 996}
+Median Age for 1000 users: 35.0
+Median Age for 42000 users: 35.0
+median num friends for 1000 users: 5.0
+median num friends for 42000 users: 6.0
+Mean num unread messages for 245 active female users: 49.82857142857143
+Mean num unread messages total for 10372 active female users: 49.92903972232935
+################################################################################################
+Mean Balance for current 1000 users: 5190.30827
+Total Mean balance for 43000 users: 5234.205089767441860465116279
+For 1000 users: {"2013": 166, "2015": 141, "2018": 22, "2016": 159, "2012": 167, "2014": 179, "2017": 166}
+Till Now users registered each year: {"2012": 7084, "2013": 6967, "2017": 7015, "2015": 6903, "2016": 7061, "2014": 6952, "2018": 1018}
+Median Age for 1000 users: 35.0
+Median Age for 43000 users: 35.0
+median num friends for 1000 users: 5.0
+median num friends for 43000 users: 6.0
+Mean num unread messages for 253 active female users: 51.04347826086956
+Mean num unread messages total for 10625 active female users: 49.955576470588234
+################################################################################################
+Mean Balance for current 1000 users: 5298.12133
+Total Mean balance for 44000 users: 5235.657731590909090909090909
+For 1000 users: {"2016": 150, "2017": 154, "2013": 174, "2015": 148, "2014": 176, "2012": 168, "2018": 30}
+Till Now users registered each year: {"2012": 7252, "2013": 7141, "2017": 7169, "2015": 7051, "2016": 7211, "2014": 7128, "2018": 1048}
+Median Age for 1000 users: 36.0
+Median Age for 44000 users: 35.0
+median num friends for 1000 users: 5.0
+median num friends for 44000 users: 6.0
+Mean num unread messages for 224 active female users: 50.933035714285715
+Mean num unread messages total for 10849 active female users: 49.97575813439027
+################################################################################################
+Mean Balance for current 1000 users: 5286.44895
+Total Mean balance for 45000 users: 5236.786425333333333333333333
+For 1000 users: {"2015": 165, "2013": 147, "2017": 185, "2014": 181, "2018": 18, "2016": 161, "2012": 143}
+Till Now users registered each year: {"2012": 7395, "2013": 7288, "2017": 7354, "2015": 7216, "2016": 7372, "2014": 7309, "2018": 1066}
+Median Age for 1000 users: 35.0
+Median Age for 45000 users: 35.0
+median num friends for 1000 users: 5.0
+median num friends for 45000 users: 6.0
+Mean num unread messages for 269 active female users: 49.613382899628256
+Mean num unread messages total for 11118 active female users: 49.96699046591114
+################################################################################################
+Mean Balance for current 1000 users: 5069.67108
+Total Mean balance for 46000 users: 5233.153483043478260869565217
+For 1000 users: {"2013": 158, "2016": 168, "2015": 156, "2012": 180, "2017": 139, "2014": 177, "2018": 22}
+Till Now users registered each year: {"2012": 7575, "2013": 7446, "2017": 7493, "2015": 7372, "2016": 7540, "2014": 7486, "2018": 1088}
+Median Age for 1000 users: 35.0
+Median Age for 46000 users: 35.0
+median num friends for 1000 users: 6.0
+median num friends for 46000 users: 6.0
+Mean num unread messages for 248 active female users: 46.66129032258065
+Mean num unread messages total for 11366 active female users: 49.894861868731304
+################################################################################################
+Mean Balance for current 1000 users: 5319.61213
+Total Mean balance for 47000 users: 5234.993028723404255319148936
+For 1000 users: {"2014": 167, "2013": 170, "2017": 157, "2012": 176, "2016": 155, "2015": 155, "2018": 20}
+Till Now users registered each year: {"2012": 7751, "2013": 7616, "2017": 7650, "2015": 7527, "2016": 7695, "2014": 7653, "2018": 1108}
+Median Age for 1000 users: 35.0
+Median Age for 47000 users: 35.0
+median num friends for 1000 users: 6.0
+median num friends for 47000 users: 6.0
+Mean num unread messages for 252 active female users: 51.476190476190474
+Mean num unread messages total for 11618 active female users: 49.929161645722154
+################################################################################################
+Mean Balance for current 1000 users: 5141.82004
+Total Mean balance for 48000 users: 5233.051924791666666666666667
+For 1000 users: {"2016": 160, "2015": 164, "2017": 159, "2014": 168, "2012": 176, "2013": 156, "2018": 17}
+Till Now users registered each year: {"2012": 7927, "2013": 7772, "2017": 7809, "2015": 7691, "2016": 7855, "2014": 7821, "2018": 1125}
+Median Age for 1000 users: 36.0
+Median Age for 48000 users: 35.0
+median num friends for 1000 users: 5.0
+median num friends for 48000 users: 6.0
+Mean num unread messages for 235 active female users: 51.31063829787234
+Mean num unread messages total for 11853 active female users: 49.95655108411373
+################################################################################################
+Mean Balance for current 1000 users: 5186.08261
+Total Mean balance for 49000 users: 5232.093367346938775510204082
+For 1000 users: {"2017": 151, "2016": 179, "2015": 167, "2013": 158, "2012": 146, "2014": 181, "2018": 18}
+Till Now users registered each year: {"2012": 8073, "2013": 7930, "2017": 7960, "2015": 7858, "2016": 8034, "2014": 8002, "2018": 1143}
+Median Age for 1000 users: 35.0
+Median Age for 49000 users: 35.0
+median num friends for 1000 users: 6.0
+median num friends for 49000 users: 6.0
+Mean num unread messages for 251 active female users: 49.29083665338646
+Mean num unread messages total for 12104 active female users: 49.942746199603434
+################################################################################################
+Mean Balance for current 1000 users: 5230.7289
+Total Mean balance for 50000 users: 5232.066078
+For 1000 users: {"2016": 167, "2017": 173, "2015": 164, "2013": 178, "2012": 156, "2014": 144, "2018": 18}
+Till Now users registered each year: {"2012": 8229, "2013": 8108, "2017": 8133, "2015": 8022, "2016": 8201, "2014": 8146, "2018": 1161}
+Median Age for 1000 users: 35.0
+Median Age for 50000 users: 35.0
+median num friends for 1000 users: 6.0
+median num friends for 50000 users: 6.0
+Mean num unread messages for 280 active female users: 49.857142857142854
+Mean num unread messages total for 12384 active female users: 49.94081072351421
+################################################################################################
+Mean Balance for current 1000 users: 5206.38918
+Total Mean balance for 51000 users: 5231.562609411764705882352941
+For 1000 users: {"2015": 158, "2013": 156, "2016": 172, "2017": 160, "2014": 174, "2012": 157, "2018": 23}
+Till Now users registered each year: {"2012": 8386, "2013": 8264, "2017": 8293, "2015": 8180, "2016": 8373, "2014": 8320, "2018": 1184}
+Median Age for 1000 users: 35.0
+Median Age for 51000 users: 35.0
+median num friends for 1000 users: 5.0
+median num friends for 51000 users: 6.0
+Mean num unread messages for 256 active female users: 48.890625
+Mean num unread messages total for 12640 active female users: 49.91954113924051
+################################################################################################
+Mean Balance for current 1000 users: 5270.70724
+Total Mean balance for 52000 users: 5232.315390769230769230769231
+For 1000 users: {"2012": 149, "2014": 167, "2015": 178, "2016": 158, "2013": 158, "2017": 167, "2018": 23}
+Till Now users registered each year: {"2012": 8535, "2013": 8422, "2017": 8460, "2015": 8358, "2016": 8531, "2014": 8487, "2018": 1207}
+Median Age for 1000 users: 35.0
+Median Age for 52000 users: 35.0
+median num friends for 1000 users: 6.0
+median num friends for 52000 users: 6.0
+Mean num unread messages for 271 active female users: 50.02214022140221
+Mean num unread messages total for 12911 active female users: 49.92169467895593
+################################################################################################
+Mean Balance for current 1000 users: 5182.73697
+Total Mean balance for 53000 users: 5231.379948867924528301886792
+For 1000 users: {"2018": 26, "2014": 166, "2017": 153, "2015": 157, "2012": 170, "2013": 142, "2016": 186}
+Till Now users registered each year: {"2012": 8705, "2013": 8564, "2017": 8613, "2015": 8515, "2016": 8717, "2014": 8653, "2018": 1233}
+Median Age for 1000 users: 35.0
+Median Age for 53000 users: 35.0
+median num friends for 1000 users: 5.5
+median num friends for 53000 users: 6.0
+Mean num unread messages for 247 active female users: 50.69635627530364
+Mean num unread messages total for 13158 active female users: 49.93623651010792
+################################################################################################
+Mean Balance for current 1000 users: 5077.04992
+Total Mean balance for 54000 users: 5228.521985370370370370370370
+For 1000 users: {"2016": 196, "2017": 153, "2014": 165, "2015": 146, "2013": 164, "2012": 159, "2018": 17}
+Till Now users registered each year: {"2012": 8864, "2013": 8728, "2017": 8766, "2015": 8661, "2016": 8913, "2014": 8818, "2018": 1250}
+Median Age for 1000 users: 34.0
+Median Age for 54000 users: 35.0
+median num friends for 1000 users: 6.0
+median num friends for 54000 users: 6.0
+Mean num unread messages for 234 active female users: 48.97863247863248
+Mean num unread messages total for 13392 active female users: 49.919504181600956
+################################################################################################
+Mean Balance for current 1000 users: 5341.80709
+Total Mean balance for 55000 users: 5230.581714545454545454545455
+For 1000 users: {"2015": 175, "2016": 170, "2012": 134, "2013": 161, "2017": 164, "2014": 176, "2018": 20}
+Till Now users registered each year: {"2012": 8998, "2013": 8889, "2017": 8930, "2015": 8836, "2016": 9083, "2014": 8994, "2018": 1270}
+Median Age for 1000 users: 34.0
+Median Age for 55000 users: 35.0
+median num friends for 1000 users: 6.0
+median num friends for 55000 users: 6.0
+Mean num unread messages for 256 active female users: 47.2421875
+Mean num unread messages total for 13648 active female users: 49.86928487690504
+################################################################################################
+Mean Balance for current 1000 users: 5321.77672
+Total Mean balance for 56000 users: 5232.210196785714285714285714
+For 1000 users: {"2014": 166, "2013": 154, "2017": 162, "2016": 175, "2015": 178, "2012": 135, "2018": 30}
+Till Now users registered each year: {"2012": 9133, "2013": 9043, "2017": 9092, "2015": 9014, "2016": 9258, "2014": 9160, "2018": 1300}
+Median Age for 1000 users: 35.0
+Median Age for 56000 users: 35.0
+median num friends for 1000 users: 6.0
+median num friends for 56000 users: 6.0
+Mean num unread messages for 238 active female users: 52.054621848739494
+Mean num unread messages total for 13886 active female users: 49.906740602045225
+################################################################################################
+Mean Balance for current 1000 users: 5209.67011
+Total Mean balance for 57000 users: 5231.814756666666666666666667
+For 1000 users: {"2012": 151, "2015": 179, "2016": 166, "2017": 173, "2014": 168, "2013": 140, "2018": 23}
+Till Now users registered each year: {"2012": 9284, "2013": 9183, "2017": 9265, "2015": 9193, "2016": 9424, "2014": 9328, "2018": 1323}
+Median Age for 1000 users: 35.0
+Median Age for 57000 users: 35.0
+median num friends for 1000 users: 5.0
+median num friends for 57000 users: 6.0
+Mean num unread messages for 262 active female users: 48.408396946564885
+Mean num unread messages total for 14148 active female users: 49.878993497314106
+################################################################################################
+Mean Balance for current 1000 users: 5191.17113
+Total Mean balance for 58000 users: 5231.114004482758620689655172
+For 1000 users: {"2017": 162, "2015": 198, "2014": 130, "2018": 28, "2013": 151, "2016": 164, "2012": 167}
+Till Now users registered each year: {"2012": 9451, "2013": 9334, "2017": 9427, "2015": 9391, "2016": 9588, "2014": 9458, "2018": 1351}
+Median Age for 1000 users: 35.0
+Median Age for 58000 users: 35.0
+median num friends for 1000 users: 5.0
+median num friends for 58000 users: 6.0
+Mean num unread messages for 249 active female users: 48.85140562248996
+Mean num unread messages total for 14397 active female users: 49.86122108772661
+################################################################################################
+Mean Balance for current 1000 users: 5271.67492
+Total Mean balance for 59000 users: 5231.801477627118644067796610
+For 1000 users: {"2014": 157, "2016": 177, "2017": 153, "2015": 152, "2012": 166, "2013": 172, "2018": 23}
+Till Now users registered each year: {"2012": 9617, "2013": 9506, "2017": 9580, "2015": 9543, "2016": 9765, "2014": 9615, "2018": 1374}
+Median Age for 1000 users: 35.0
+Median Age for 59000 users: 35.0
+median num friends for 1000 users: 6.0
+median num friends for 59000 users: 6.0
+Mean num unread messages for 273 active female users: 47.1025641025641
+Mean num unread messages total for 14670 active female users: 49.80988411724608
+################################################################################################
+Mean Balance for current 1000 users: 5242.97515
+Total Mean balance for 60000 users: 5231.9877055
+For 1000 users: {"2013": 171, "2014": 161, "2012": 161, "2015": 176, "2016": 156, "2017": 156, "2018": 19}
+Till Now users registered each year: {"2012": 9778, "2013": 9677, "2017": 9736, "2015": 9719, "2016": 9921, "2014": 9776, "2018": 1393}
+Median Age for 1000 users: 35.0
+Median Age for 60000 users: 35.0
+median num friends for 1000 users: 6.0
+median num friends for 60000 users: 6.0
+Mean num unread messages for 239 active female users: 50.92887029288703
+Mean num unread messages total for 14909 active female users: 49.82782212086659
+################################################################################################
+Mean Balance for current 1000 users: 5229.01769
+Total Mean balance for 61000 users: 5231.939016721311475409836066
+For 1000 users: {"2012": 172, "2016": 155, "2017": 170, "2013": 178, "2014": 148, "2015": 154, "2018": 23}
+Till Now users registered each year: {"2012": 9950, "2013": 9855, "2017": 9906, "2015": 9873, "2016": 10076, "2014": 9924, "2018": 1416}
+Median Age for 1000 users: 34.0
+Median Age for 61000 users: 35.0
+median num friends for 1000 users: 5.0
+median num friends for 61000 users: 6.0
+Mean num unread messages for 231 active female users: 48.43290043290043
+Mean num unread messages total for 15140 active female users: 49.80653896961691
+################################################################################################
+Mean Balance for current 1000 users: 5235.80416
+Total Mean balance for 62000 users: 5232.001357741935483870967742
+For 1000 users: {"2016": 154, "2014": 166, "2018": 27, "2015": 187, "2012": 158, "2013": 161, "2017": 147}
+Till Now users registered each year: {"2012": 10108, "2013": 10016, "2017": 10053, "2015": 10060, "2016": 10230, "2014": 10090, "2018": 1443}
+Median Age for 1000 users: 34.0
+Median Age for 62000 users: 35.0
+median num friends for 1000 users: 6.0
+median num friends for 62000 users: 6.0
+Mean num unread messages for 230 active female users: 49.43913043478261
+Mean num unread messages total for 15370 active female users: 49.80104098893949
+################################################################################################
+Mean Balance for current 1000 users: 5383.29705
+Total Mean balance for 63000 users: 5234.402876666666666666666667
+For 1000 users: {"2015": 176, "2012": 160, "2016": 164, "2013": 165, "2017": 179, "2014": 132, "2018": 24}
+Till Now users registered each year: {"2012": 10268, "2013": 10181, "2017": 10232, "2015": 10236, "2016": 10394, "2014": 10222, "2018": 1467}
+Median Age for 1000 users: 35.0
+Median Age for 63000 users: 35.0
+median num friends for 1000 users: 5.0
+median num friends for 63000 users: 6.0
+Mean num unread messages for 243 active female users: 50.699588477366255
+Mean num unread messages total for 15613 active female users: 49.81502593992186
+################################################################################################
+Mean Balance for current 1000 users: 5101.37302
+Total Mean balance for 64000 users: 5232.32428515625
+For 1000 users: {"2018": 19, "2012": 174, "2013": 159, "2015": 185, "2017": 140, "2014": 164, "2016": 159}
+Till Now users registered each year: {"2012": 10442, "2013": 10340, "2017": 10372, "2015": 10421, "2016": 10553, "2014": 10386, "2018": 1486}
+Median Age for 1000 users: 34.5
+Median Age for 64000 users: 35.0
+median num friends for 1000 users: 6.0
+median num friends for 64000 users: 6.0
+Mean num unread messages for 250 active female users: 48.192
+Mean num unread messages total for 15863 active female users: 49.78944714114606
+################################################################################################
+Mean Balance for current 1000 users: 5268.41693
+Total Mean balance for 65000 users: 5232.879556615384615384615385
+For 1000 users: {"2016": 167, "2012": 184, "2017": 146, "2013": 159, "2014": 169, "2015": 158, "2018": 17}
+Till Now users registered each year: {"2012": 10626, "2013": 10499, "2017": 10518, "2015": 10579, "2016": 10720, "2014": 10555, "2018": 1503}
+Median Age for 1000 users: 36.0
+Median Age for 65000 users: 35.0
+median num friends for 1000 users: 5.0
+median num friends for 65000 users: 6.0
+Mean num unread messages for 235 active female users: 50.702127659574465
+Mean num unread messages total for 16098 active female users: 49.80277053050068
+################################################################################################
+Mean Balance for current 1000 users: 5328.15882
+Total Mean balance for 66000 users: 5234.323181818181818181818182
+For 1000 users: {"2016": 162, "2012": 153, "2015": 178, "2014": 159, "2013": 159, "2017": 167, "2018": 22}
+Till Now users registered each year: {"2012": 10779, "2013": 10658, "2017": 10685, "2015": 10757, "2016": 10882, "2014": 10714, "2018": 1525}
+Median Age for 1000 users: 34.0
+Median Age for 66000 users: 35.0
+median num friends for 1000 users: 6.0
+median num friends for 66000 users: 6.0
+Mean num unread messages for 275 active female users: 48.49818181818182
+Mean num unread messages total for 16373 active female users: 49.78085873083735
+################################################################################################
+Mean Balance for current 1000 users: 5142.82649
+Total Mean balance for 67000 users: 5232.957559552238805970149254
+For 1000 users: {"2016": 153, "2015": 171, "2017": 143, "2012": 165, "2014": 169, "2013": 176, "2018": 23}
+Till Now users registered each year: {"2012": 10944, "2013": 10834, "2017": 10828, "2015": 10928, "2016": 11035, "2014": 10883, "2018": 1548}
+Median Age for 1000 users: 35.0
+Median Age for 67000 users: 35.0
+median num friends for 1000 users: 6.0
+median num friends for 67000 users: 6.0
+Mean num unread messages for 266 active female users: 48.10526315789474
+Mean num unread messages total for 16639 active female users: 49.75407175912014
+################################################################################################
+Mean Balance for current 1000 users: 5312.45353
+Total Mean balance for 68000 users: 5234.126617941176470588235294
+For 1000 users: {"2017": 165, "2013": 168, "2015": 158, "2014": 146, "2016": 177, "2018": 20, "2012": 166}
+Till Now users registered each year: {"2012": 11110, "2013": 11002, "2017": 10993, "2015": 11086, "2016": 11212, "2014": 11029, "2018": 1568}
+Median Age for 1000 users: 35.0
+Median Age for 68000 users: 35.0
+median num friends for 1000 users: 5.0
+median num friends for 68000 users: 6.0
+Mean num unread messages for 263 active female users: 46.349809885931556
+Mean num unread messages total for 16902 active female users: 49.70110046148385
+################################################################################################
+Mean Balance for current 1000 users: 5242.92606
+Total Mean balance for 69000 users: 5234.254146086956521739130435
+For 1000 users: {"2017": 156, "2014": 192, "2013": 147, "2016": 169, "2012": 155, "2015": 168, "2018": 13}
+Till Now users registered each year: {"2012": 11265, "2013": 11149, "2017": 11149, "2015": 11254, "2016": 11381, "2014": 11221, "2018": 1581}
+Median Age for 1000 users: 36.0
+Median Age for 69000 users: 35.0
+median num friends for 1000 users: 6.0
+median num friends for 69000 users: 6.0
+Mean num unread messages for 257 active female users: 51.62256809338521
+Mean num unread messages total for 17159 active female users: 49.72987936359928
+################################################################################################
+Mean Balance for current 1000 users: 5204.32941
+Total Mean balance for 70000 users: 5233.826649857142857142857143
+For 1000 users: {"2016": 153, "2017": 170, "2015": 150, "2013": 165, "2014": 157, "2012": 181, "2018": 24}
+Till Now users registered each year: {"2012": 11446, "2013": 11314, "2017": 11319, "2015": 11404, "2016": 11534, "2014": 11378, "2018": 1605}
+Median Age for 1000 users: 35.0
+Median Age for 70000 users: 35.0
+median num friends for 1000 users: 6.0
+median num friends for 70000 users: 6.0
+Mean num unread messages for 261 active female users: 52.37547892720306
+Mean num unread messages total for 17420 active female users: 49.7695177956372
+################################################################################################
+Mean Balance for current 1000 users: 5305.80001
+Total Mean balance for 71000 users: 5234.840359154929577464788732
+For 1000 users: {"2013": 184, "2012": 156, "2014": 161, "2016": 162, "2017": 174, "2015": 148, "2018": 15}
+Till Now users registered each year: {"2012": 11602, "2013": 11498, "2017": 11493, "2015": 11552, "2016": 11696, "2014": 11539, "2018": 1620}
+Median Age for 1000 users: 35.0
+Median Age for 71000 users: 35.0
+median num friends for 1000 users: 6.0
+median num friends for 71000 users: 6.0
+Mean num unread messages for 261 active female users: 50.22222222222222
+Mean num unread messages total for 17681 active female users: 49.776200441151516
+################################################################################################
+Mean Balance for current 1000 users: 5196.26043
+Total Mean balance for 72000 users: 5234.304526805555555555555556
+For 1000 users: {"2015": 156, "2014": 166, "2013": 159, "2012": 181, "2016": 131, "2017": 173, "2018": 34}
+Till Now users registered each year: {"2012": 11783, "2013": 11657, "2017": 11666, "2015": 11708, "2016": 11827, "2014": 11705, "2018": 1654}
+Median Age for 1000 users: 36.0
+Median Age for 72000 users: 35.0
+median num friends for 1000 users: 6.0
+median num friends for 72000 users: 6.0
+Mean num unread messages for 249 active female users: 50.42570281124498
+Mean num unread messages total for 17930 active female users: 49.78522030117122
+################################################################################################
+Mean Balance for current 1000 users: 5260.20002
+Total Mean balance for 73000 users: 5234.659259589041095890410959
+For 1000 users: {"2015": 151, "2017": 206, "2016": 166, "2013": 146, "2012": 149, "2014": 160, "2018": 22}
+Till Now users registered each year: {"2012": 11932, "2013": 11803, "2017": 11872, "2015": 11859, "2016": 11993, "2014": 11865, "2018": 1676}
+Median Age for 1000 users: 34.0
+Median Age for 73000 users: 35.0
+median num friends for 1000 users: 6.0
+median num friends for 73000 users: 6.0
+Mean num unread messages for 232 active female users: 48.71551724137931
+Mean num unread messages total for 18162 active female users: 49.77155599603568
+################################################################################################
+Mean Balance for current 1000 users: 5376.14491
+Total Mean balance for 74000 users: 5236.571227837837837837837838
+For 1000 users: {"2014": 172, "2012": 165, "2013": 163, "2018": 28, "2017": 147, "2015": 172, "2016": 153}
+Till Now users registered each year: {"2012": 12097, "2013": 11966, "2017": 12019, "2015": 12031, "2016": 12146, "2014": 12037, "2018": 1704}
+Median Age for 1000 users: 35.0
+Median Age for 74000 users: 35.0
+median num friends for 1000 users: 6.0
+median num friends for 74000 users: 6.0
+Mean num unread messages for 247 active female users: 51.149797570850204
+Mean num unread messages total for 18409 active female users: 49.79004834591776
+################################################################################################
+Mean Balance for current 1000 users: 5182.00147
+Total Mean balance for 75000 users: 5235.843631066666666666666667
+For 1000 users: {"2017": 172, "2016": 157, "2014": 156, "2013": 158, "2012": 168, "2015": 161, "2018": 28}
+Till Now users registered each year: {"2012": 12265, "2013": 12124, "2017": 12191, "2015": 12192, "2016": 12303, "2014": 12193, "2018": 1732}
+Median Age for 1000 users: 35.0
+Median Age for 75000 users: 35.0
+median num friends for 1000 users: 6.0
+median num friends for 75000 users: 6.0
+Mean num unread messages for 257 active female users: 48.38132295719844
+Mean num unread messages total for 18666 active female users: 49.770652523304406
+################################################################################################
+Mean Balance for current 1000 users: 5242.15078
+Total Mean balance for 76000 users: 5235.926619868421052631578947
+For 1000 users: {"2014": 147, "2015": 167, "2017": 182, "2016": 148, "2018": 14, "2012": 159, "2013": 183}
+Till Now users registered each year: {"2012": 12424, "2013": 12307, "2017": 12373, "2015": 12359, "2016": 12451, "2014": 12340, "2018": 1746}
+Median Age for 1000 users: 35.0
+Median Age for 76000 users: 35.0
+median num friends for 1000 users: 6.0
+median num friends for 76000 users: 6.0
+Mean num unread messages for 273 active female users: 47.32234432234432
+Mean num unread messages total for 18939 active female users: 49.73536089550662
+################################################################################################
+Mean Balance for current 1000 users: 5265.03041
+Total Mean balance for 77000 users: 5236.304591168831168831168831
+For 1000 users: {"2014": 195, "2013": 155, "2012": 149, "2015": 158, "2017": 167, "2018": 22, "2016": 154}
+Till Now users registered each year: {"2012": 12573, "2013": 12462, "2017": 12540, "2015": 12517, "2016": 12605, "2014": 12535, "2018": 1768}
+Median Age for 1000 users: 35.0
+Median Age for 77000 users: 35.0
+median num friends for 1000 users: 6.0
+median num friends for 77000 users: 6.0
+Mean num unread messages for 245 active female users: 52.159183673469386
+Mean num unread messages total for 19184 active female users: 49.76631567973311
+################################################################################################
+Mean Balance for current 1000 users: 5158.05448
+Total Mean balance for 78000 users: 5235.301384615384615384615385
+For 1000 users: {"2012": 153, "2013": 191, "2016": 153, "2015": 151, "2017": 156, "2014": 175, "2018": 21}
+Till Now users registered each year: {"2012": 12726, "2013": 12653, "2017": 12696, "2015": 12668, "2016": 12758, "2014": 12710, "2018": 1789}
+Median Age for 1000 users: 34.0
+Median Age for 78000 users: 35.0
+median num friends for 1000 users: 6.0
+median num friends for 78000 users: 6.0
+Mean num unread messages for 233 active female users: 51.17596566523605
+Mean num unread messages total for 19417 active female users: 49.783231189164134
+################################################################################################
+Mean Balance for current 1000 users: 5210.13758
+Total Mean balance for 79000 users: 5234.982855443037974683544304
+For 1000 users: {"2014": 176, "2018": 30, "2012": 144, "2013": 151, "2015": 169, "2016": 152, "2017": 178}
+Till Now users registered each year: {"2012": 12870, "2013": 12804, "2017": 12874, "2015": 12837, "2016": 12910, "2014": 12886, "2018": 1819}
+Median Age for 1000 users: 35.0
+Median Age for 79000 users: 35.0
+median num friends for 1000 users: 6.0
+median num friends for 79000 users: 6.0
+Mean num unread messages for 232 active female users: 51.125
+Mean num unread messages total for 19649 active female users: 49.7990737442109
+################################################################################################
+Mean Balance for current 1000 users: 5310.82522
+Total Mean balance for 80000 users: 5235.930885
+For 1000 users: {"2012": 175, "2014": 162, "2015": 151, "2013": 171, "2016": 173, "2017": 146, "2018": 22}
+Till Now users registered each year: {"2012": 13045, "2013": 12975, "2017": 13020, "2015": 12988, "2016": 13083, "2014": 13048, "2018": 1841}
+Median Age for 1000 users: 35.0
+Median Age for 80000 users: 35.0
+median num friends for 1000 users: 6.0
+median num friends for 80000 users: 6.0
+Mean num unread messages for 244 active female users: 52.50409836065574
+Mean num unread messages total for 19893 active female users: 49.83225255114864
+################################################################################################
+Mean Balance for current 1000 users: 5269.5275
+Total Mean balance for 81000 users: 5236.345658024691358024691358
+For 1000 users: {"2017": 146, "2016": 189, "2014": 167, "2012": 149, "2013": 159, "2015": 167, "2018": 23}
+Till Now users registered each year: {"2012": 13194, "2013": 13134, "2017": 13166, "2015": 13155, "2016": 13272, "2014": 13215, "2018": 1864}
+Median Age for 1000 users: 34.0
+Median Age for 81000 users: 35.0
+median num friends for 1000 users: 5.0
+median num friends for 81000 users: 6.0
+Mean num unread messages for 229 active female users: 51.51091703056768
+Mean num unread messages total for 20122 active female users: 49.8513567239837
+################################################################################################
+Mean Balance for current 1000 users: 5329.32649
+Total Mean balance for 82000 users: 5237.479570609756097560975610
+For 1000 users: {"2013": 176, "2016": 152, "2014": 155, "2012": 149, "2017": 165, "2015": 163, "2018": 40}
+Till Now users registered each year: {"2012": 13343, "2013": 13310, "2017": 13331, "2015": 13318, "2016": 13424, "2014": 13370, "2018": 1904}
+Median Age for 1000 users: 35.0
+Median Age for 82000 users: 35.0
+median num friends for 1000 users: 6.0
+median num friends for 82000 users: 6.0
+Mean num unread messages for 233 active female users: 51.407725321888414
+Mean num unread messages total for 20355 active female users: 49.86917219356423
+################################################################################################
+Mean Balance for current 1000 users: 5171.1621
+Total Mean balance for 83000 users: 5236.680564939759036144578313
+For 1000 users: {"2014": 166, "2016": 162, "2015": 165, "2013": 161, "2017": 161, "2012": 174, "2018": 11}
+Till Now users registered each year: {"2012": 13517, "2013": 13471, "2017": 13492, "2015": 13483, "2016": 13586, "2014": 13536, "2018": 1915}
+Median Age for 1000 users: 35.0
+Median Age for 83000 users: 35.0
+median num friends for 1000 users: 5.0
+median num friends for 83000 users: 6.0
+Mean num unread messages for 224 active female users: 52.924107142857146
+Mean num unread messages total for 20579 active female users: 49.902424801982605
+################################################################################################
+Mean Balance for current 1000 users: 5214.21256
+Total Mean balance for 84000 users: 5236.413088690476190476190476
+For 1000 users: {"2017": 161, "2015": 153, "2014": 152, "2016": 179, "2013": 168, "2018": 26, "2012": 161}
+Till Now users registered each year: {"2012": 13678, "2013": 13639, "2017": 13653, "2015": 13636, "2016": 13765, "2014": 13688, "2018": 1941}
+Median Age for 1000 users: 35.0
+Median Age for 84000 users: 35.0
+median num friends for 1000 users: 5.0
+median num friends for 84000 users: 6.0
+Mean num unread messages for 248 active female users: 50.42338709677419
+Mean num unread messages total for 20827 active female users: 49.908628222979786
+################################################################################################
+Mean Balance for current 1000 users: 5112.47163
+Total Mean balance for 85000 users: 5234.954953882352941176470588
+For 1000 users: {"2016": 163, "2013": 188, "2012": 168, "2017": 155, "2015": 154, "2014": 144, "2018": 28}
+Till Now users registered each year: {"2012": 13846, "2013": 13827, "2017": 13808, "2015": 13790, "2016": 13928, "2014": 13832, "2018": 1969}
+Median Age for 1000 users: 35.0
+Median Age for 85000 users: 35.0
+median num friends for 1000 users: 5.0
+median num friends for 85000 users: 6.0
+Mean num unread messages for 237 active female users: 50.79746835443038
+Mean num unread messages total for 21064 active female users: 49.9186289403722
+################################################################################################
+Mean Balance for current 1000 users: 5254.35765
+Total Mean balance for 86000 users: 5235.180566627906976744186047
+For 1000 users: {"2013": 154, "2017": 172, "2016": 141, "2015": 179, "2012": 154, "2014": 177, "2018": 23}
+Till Now users registered each year: {"2012": 14000, "2013": 13981, "2017": 13980, "2015": 13969, "2016": 14069, "2014": 14009, "2018": 1992}
+Median Age for 1000 users: 35.0
+Median Age for 86000 users: 35.0
+median num friends for 1000 users: 5.0
+median num friends for 86000 users: 6.0
+Mean num unread messages for 269 active female users: 45.75092936802974
+Mean num unread messages total for 21333 active female users: 49.86607603243801
+################################################################################################
+Mean Balance for current 1000 users: 5207.28759
+Total Mean balance for 87000 users: 5234.859957701149425287356322
+For 1000 users: {"2017": 172, "2013": 155, "2012": 176, "2015": 172, "2016": 155, "2014": 152, "2018": 18}
+Till Now users registered each year: {"2012": 14176, "2013": 14136, "2017": 14152, "2015": 14141, "2016": 14224, "2014": 14161, "2018": 2010}
+Median Age for 1000 users: 35.0
+Median Age for 87000 users: 35.0
+median num friends for 1000 users: 6.0
+median num friends for 87000 users: 6.0
+Mean num unread messages for 252 active female users: 48.31349206349206
+Mean num unread messages total for 21585 active female users: 49.84794996525365
+################################################################################################
+Mean Balance for current 1000 users: 5452.82044
+Total Mean balance for 88000 users: 5237.336781363636363636363636
+For 1000 users: {"2014": 160, "2013": 165, "2016": 169, "2015": 173, "2012": 149, "2017": 156, "2018": 28}
+Till Now users registered each year: {"2012": 14325, "2013": 14301, "2017": 14308, "2015": 14314, "2016": 14393, "2014": 14321, "2018": 2038}
+Median Age for 1000 users: 34.0
+Median Age for 88000 users: 35.0
+median num friends for 1000 users: 5.0
+median num friends for 88000 users: 6.0
+Mean num unread messages for 273 active female users: 50.27838827838828
+Mean num unread messages total for 21858 active female users: 49.85332601335895
+################################################################################################
+Mean Balance for current 1000 users: 5227.42432
+Total Mean balance for 89000 users: 5237.225405393258426966292135
+For 1000 users: {"2017": 163, "2013": 154, "2015": 143, "2012": 160, "2014": 165, "2016": 189, "2018": 26}
+Till Now users registered each year: {"2012": 14485, "2013": 14455, "2017": 14471, "2015": 14457, "2016": 14582, "2014": 14486, "2018": 2064}
+Median Age for 1000 users: 35.0
+Median Age for 89000 users: 35.0
+median num friends for 1000 users: 5.0
+median num friends for 89000 users: 6.0
+Mean num unread messages for 266 active female users: 53.59398496240601
+Mean num unread messages total for 22124 active female users: 49.89830048815766
+################################################################################################
+Mean Balance for current 1000 users: 5366.05461
+Total Mean balance for 90000 users: 5238.656841
+For 1000 users: {"2012": 166, "2017": 149, "2016": 173, "2014": 156, "2013": 182, "2015": 148, "2018": 26}
+Till Now users registered each year: {"2012": 14651, "2013": 14637, "2017": 14620, "2015": 14605, "2016": 14755, "2014": 14642, "2018": 2090}
+Median Age for 1000 users: 34.0
+Median Age for 90000 users: 35.0
+median num friends for 1000 users: 5.0
+median num friends for 90000 users: 6.0
+Mean num unread messages for 246 active female users: 51.89837398373984
+Mean num unread messages total for 22370 active female users: 49.92029503799732
+################################################################################################
+Mean Balance for current 1000 users: 5317.80127
+Total Mean balance for 91000 users: 5239.52656
+For 1000 users: {"2016": 156, "2012": 173, "2013": 146, "2017": 159, "2015": 160, "2014": 175, "2018": 31}
+Till Now users registered each year: {"2012": 14824, "2013": 14783, "2017": 14779, "2015": 14765, "2016": 14911, "2014": 14817, "2018": 2121}
+Median Age for 1000 users: 35.0
+Median Age for 91000 users: 35.0
+median num friends for 1000 users: 6.0
+median num friends for 91000 users: 6.0
+Mean num unread messages for 234 active female users: 50.41880341880342
+Mean num unread messages total for 22604 active female users: 49.92545567156255
+################################################################################################
+Mean Balance for current 1000 users: 5398.44659
+Total Mean balance for 92000 users: 5241.253951630434782608695652
+For 1000 users: {"2017": 145, "2015": 173, "2016": 148, "2013": 165, "2012": 162, "2014": 178, "2018": 29}
+Till Now users registered each year: {"2012": 14986, "2013": 14948, "2017": 14924, "2015": 14938, "2016": 15059, "2014": 14995, "2018": 2150}
+Median Age for 1000 users: 35.0
+Median Age for 92000 users: 35.0
+median num friends for 1000 users: 5.0
+median num friends for 92000 users: 6.0
+Mean num unread messages for 247 active female users: 49.76923076923077
+Mean num unread messages total for 22851 active female users: 49.92376701238458
+################################################################################################
+Mean Balance for current 1000 users: 5139.45315
+Total Mean balance for 93000 users: 5240.159319354838709677419355
+For 1000 users: {"2016": 190, "2012": 143, "2013": 169, "2017": 153, "2018": 17, "2015": 176, "2014": 152}
+Till Now users registered each year: {"2012": 15129, "2013": 15117, "2017": 15077, "2015": 15114, "2016": 15249, "2014": 15147, "2018": 2167}
+Median Age for 1000 users: 35.0
+Median Age for 93000 users: 35.0
+median num friends for 1000 users: 5.0
+median num friends for 93000 users: 6.0
+Mean num unread messages for 246 active female users: 49.28861788617886
+Mean num unread messages total for 23097 active female users: 49.91700220807897
+################################################################################################
+Mean Balance for current 1000 users: 5338.68892
+Total Mean balance for 94000 users: 5241.207506595744680851063830
+For 1000 users: {"2016": 165, "2014": 143, "2018": 19, "2012": 149, "2013": 172, "2017": 172, "2015": 180}
+Till Now users registered each year: {"2012": 15278, "2013": 15289, "2017": 15249, "2015": 15294, "2016": 15414, "2014": 15290, "2018": 2186}
+Median Age for 1000 users: 36.0
+Median Age for 94000 users: 35.0
+median num friends for 1000 users: 6.0
+median num friends for 94000 users: 6.0
+Mean num unread messages for 225 active female users: 50.346666666666664
+Mean num unread messages total for 23322 active female users: 49.92114741445845
+################################################################################################
+Mean Balance for current 1000 users: 5369.39236
+Total Mean balance for 95000 users: 5242.556820842105263157894737
+For 1000 users: {"2016": 163, "2012": 150, "2017": 184, "2014": 165, "2013": 154, "2015": 164, "2018": 20}
+Till Now users registered each year: {"2012": 15428, "2013": 15443, "2017": 15433, "2015": 15458, "2016": 15577, "2014": 15455, "2018": 2206}
+Median Age for 1000 users: 35.0
+Median Age for 95000 users: 35.0
+median num friends for 1000 users: 6.0
+median num friends for 95000 users: 6.0
+Mean num unread messages for 258 active female users: 50.80232558139535
+Mean num unread messages total for 23580 active female users: 49.93078880407125
+################################################################################################
+Mean Balance for current 1000 users: 5272.74315
+Total Mean balance for 96000 users: 5242.871261770833333333333333
+For 1000 users: {"2012": 172, "2014": 158, "2015": 165, "2013": 151, "2016": 172, "2017": 174, "2018": 8}
+Till Now users registered each year: {"2012": 15600, "2013": 15594, "2017": 15607, "2015": 15623, "2016": 15749, "2014": 15613, "2018": 2214}
+Median Age for 1000 users: 34.0
+Median Age for 96000 users: 35.0
+median num friends for 1000 users: 5.0
+median num friends for 96000 users: 6.0
+Mean num unread messages for 247 active female users: 49.392712550607285
+Mean num unread messages total for 23827 active female users: 49.92521089520292
+################################################################################################
+Mean Balance for current 1000 users: 5247.60831
+Total Mean balance for 97000 users: 5242.920097319587628865979381
+For 1000 users: {"2015": 155, "2016": 150, "2017": 162, "2018": 24, "2012": 166, "2014": 191, "2013": 152}
+Till Now users registered each year: {"2012": 15766, "2013": 15746, "2017": 15769, "2015": 15778, "2016": 15899, "2014": 15804, "2018": 2238}
+Median Age for 1000 users: 35.0
+Median Age for 97000 users: 35.0
+median num friends for 1000 users: 6.0
+median num friends for 97000 users: 6.0
+Mean num unread messages for 267 active female users: 51.756554307116104
+Mean num unread messages total for 24094 active female users: 49.945505105005395
+################################################################################################
+Mean Balance for current 1000 users: 5169.32663
+Total Mean balance for 98000 users: 5242.169143571428571428571429
+For 1000 users: {"2017": 152, "2016": 153, "2014": 189, "2015": 157, "2013": 164, "2012": 163, "2018": 22}
+Till Now users registered each year: {"2012": 15929, "2013": 15910, "2017": 15921, "2015": 15935, "2016": 16052, "2014": 15993, "2018": 2260}
+Median Age for 1000 users: 35.0
+Median Age for 98000 users: 35.0
+median num friends for 1000 users: 6.0
+median num friends for 98000 users: 6.0
+Mean num unread messages for 243 active female users: 49.267489711934154
+Mean num unread messages total for 24337 active female users: 49.93873525907055
+################################################################################################
+Mean Balance for current 1000 users: 5166.33909
+Total Mean balance for 99000 users: 5241.403183434343434343434343
+For 1000 users: {"2013": 159, "2017": 151, "2015": 153, "2016": 175, "2012": 169, "2014": 165, "2018": 28}
+Till Now users registered each year: {"2012": 16098, "2013": 16069, "2017": 16072, "2015": 16088, "2016": 16227, "2014": 16158, "2018": 2288}
+Median Age for 1000 users: 35.0
+Median Age for 99000 users: 35.0
+median num friends for 1000 users: 5.0
+median num friends for 99000 users: 6.0
+Mean num unread messages for 257 active female users: 49.929961089494164
+Mean num unread messages total for 24594 active female users: 49.93864357160283
+################################################################################################
+Mean Balance for current 1000 users: 5239.5701
+Total Mean balance for 100000 users: 5241.3848526
+For 1000 users: {"2017": 156, "2013": 179, "2014": 157, "2016": 164, "2015": 167, "2018": 22, "2012": 155}
+Till Now users registered each year: {"2012": 16253, "2013": 16248, "2017": 16228, "2015": 16255, "2016": 16391, "2014": 16315, "2018": 2310}
+Median Age for 1000 users: 35.0
+Median Age for 100000 users: 35.0
+median num friends for 1000 users: 5.0
+median num friends for 100000 users: 6.0
+Mean num unread messages for 256 active female users: 49.87109375
+Mean num unread messages total for 24850 active female users: 49.9379476861167
+################################################################################################
